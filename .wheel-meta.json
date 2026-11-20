@@ -1,0 +1,22 @@
+{
+  "wheel_id": 938,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-110",
+  "project": "retaining-wall-repairs-toowoomba-diy-vs-professional-12ee12d751",
+  "parent_t1_ref": "toowoombaretainingwalls-154",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba diy vs professional",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-diy-vs-professional-12ee12d751/",
+  "tier": "T2",
+  "writeback_nonce": "b1e81246ef8260f5",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombaretainingwalls-154/",
+      "anchor": "retaining wall repairs toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
